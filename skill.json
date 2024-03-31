@@ -1,0 +1,83 @@
+[{
+        "name": "HTML",
+        "img": "https://i.ibb.co/z8Pzzbs/images.png"
+    },
+    {
+        "name": "  CSS",
+        "img": "https://i.ibb.co/23rzNTD/CSS3-logo-and-wordmark-svg.png"
+    },
+    {
+        "name": "Bootstrap",
+        "img": "https://i.ibb.co/G0pk43x/6a529589-3dcf-43c2-8723-bca8307b4f37.jpg"
+    },
+    {
+        "name": "Tailwind",
+        "img": "https://i.ibb.co/4KVSCKn/nwt9ncojkvwmjfkaada8upafvpnu.png"
+    },
+    {
+        "name": "ant design",
+        "img": "https://i.ibb.co/n3sMy3m/ant-design-icon-2048x2046-dl3neb73.png.png"
+    },
+    {
+        "name": "Material ui",
+        "img": "https://i.ibb.co/x5sQV3C/logo.png"
+    },
+    {
+        "name": "JavaScript",
+        "img": "https://i.ibb.co/kyqBwsc/Javascript-badge-svg.png"
+    },
+    {
+        "name": "TypeScript",
+        "img": "https://i.ibb.co/NNYhcd1/ts.png"
+    },
+    {
+        "name": "React JS",
+        "img": "https://i.ibb.co/jDfjVrN/1-VFSt-Jox-V3-Wa8-Ees7-Ztn-N7-A.png"
+    },
+    {
+        "name": "ReactRouter",
+        "img": "https://i.ibb.co/RC3NH64/1-s-X8r-BJBol5d-Bp5-WIJQr-Yyw.png"
+    },
+    {
+        "name": "TanStack",
+        "img": "https://i.ibb.co/tD86dR7/tan.png"
+    },
+    {
+        "name": "AXIOS",
+        "img": "https://i.ibb.co/swfVTdg/101181820-f3a63780-3612-11eb-9d3a-05452f2b0ad8.png"
+    },
+    {
+        "name": "Redux",
+        "img": "https://i.ibb.co/Lv95SDj/1-8v-DTQKh-Emn-2-TVZ-u8m-Qw.jpg"
+    },
+    {
+        "name": "Node JS",
+        "img": "https://i.ibb.co/cw1RbRs/1-IWn-UIs-LJV5g-ADU0e-Zic8-YA.jpg"
+    },
+    {
+        "name": "Express JS",
+        "img": "https://i.ibb.co/gJVQt4x/1686391647921.png"
+    },
+    {
+        "name": "MongoDB",
+        "img": "https://i.ibb.co/SXH2ppC/mg.jpg"
+    },
+    {
+        "name": "Mongoose",
+        "img": "https://i.ibb.co/znGGCG0/mgsdb.png"
+    },
+   
+    {
+        "name": "Prisma",
+        "img": "https://i.ibb.co/4wyYhr6/prisma-triangulo-triangular-piramide-color-colorido-efecto-vibrante-gradiente-vector-moderno-diseno.jpg"
+    },
+    {
+        "name": "PostgresSql",
+        "img": "https://i.ibb.co/HpF8tGb/Postgresql-elephant-svg.png"
+    },
+    {
+        "name": "GitHub",
+        "img": "https://i.ibb.co/7jMKJ36/github-6980894-1280.webp"
+    }
+  
+]

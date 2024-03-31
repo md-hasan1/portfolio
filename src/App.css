@@ -1,0 +1,29 @@
+.border-animation::after {
+
+    content: '';
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 380px;
+    height: 420px;
+
+    transform-origin: bottom right;
+    background: linear-gradient(0deg, transparent, transparent, #ef0cf3fa, #ef0cf3fa, #ef0cf3fa);
+    animation: animated 6s linear infinite;
+    animation-delay: -3s;
+
+}
+
+@keyframes animated {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+};
+
+.button-color {
+    @apply bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500;
+}
