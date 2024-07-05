@@ -1,83 +1,108 @@
-[{
+[
+    {
         "name": "HTML",
-        "img": "https://i.ibb.co/z8Pzzbs/images.png"
+        "img": "https://i.ibb.co/z8Pzzbs/images.png",
+        "level":"Expertise"
     },
     {
         "name": "  CSS",
-        "img": "https://i.ibb.co/23rzNTD/CSS3-logo-and-wordmark-svg.png"
+        "img": "https://i.ibb.co/23rzNTD/CSS3-logo-and-wordmark-svg.png",
+        "level":"Expertise"
     },
     {
         "name": "Bootstrap",
-        "img": "https://i.ibb.co/G0pk43x/6a529589-3dcf-43c2-8723-bca8307b4f37.jpg"
+        "img": "https://i.ibb.co/G0pk43x/6a529589-3dcf-43c2-8723-bca8307b4f37.jpg",
+        "level":"Expertise"
     },
     {
         "name": "Tailwind",
-        "img": "https://i.ibb.co/4KVSCKn/nwt9ncojkvwmjfkaada8upafvpnu.png"
+        "img": "https://i.ibb.co/4KVSCKn/nwt9ncojkvwmjfkaada8upafvpnu.png",
+        "level":"Expertise"
     },
     {
         "name": "ant design",
-        "img": "https://i.ibb.co/n3sMy3m/ant-design-icon-2048x2046-dl3neb73.png.png"
+        "img": "https://i.ibb.co/n3sMy3m/ant-design-icon-2048x2046-dl3neb73.png.png",
+        "level":"Expertise"
     },
     {
         "name": "Material ui",
-        "img": "https://i.ibb.co/x5sQV3C/logo.png"
+        "img": "https://i.ibb.co/x5sQV3C/logo.png",
+        "level":"Expertise"
     },
     {
         "name": "JavaScript",
-        "img": "https://i.ibb.co/kyqBwsc/Javascript-badge-svg.png"
+        "img": "https://i.ibb.co/kyqBwsc/Javascript-badge-svg.png",
+        "level":"Expertise"
     },
     {
         "name": "TypeScript",
-        "img": "https://i.ibb.co/NNYhcd1/ts.png"
+        "img": "https://i.ibb.co/NNYhcd1/ts.png",
+        "level":"Expertise"
     },
     {
         "name": "React JS",
-        "img": "https://i.ibb.co/jDfjVrN/1-VFSt-Jox-V3-Wa8-Ees7-Ztn-N7-A.png"
+        "img": "https://i.ibb.co/jDfjVrN/1-VFSt-Jox-V3-Wa8-Ees7-Ztn-N7-A.png",
+        "level":"Expertise"
     },
     {
         "name": "ReactRouter",
-        "img": "https://i.ibb.co/RC3NH64/1-s-X8r-BJBol5d-Bp5-WIJQr-Yyw.png"
-    },
-    {
-        "name": "TanStack",
-        "img": "https://i.ibb.co/tD86dR7/tan.png"
-    },
-    {
-        "name": "AXIOS",
-        "img": "https://i.ibb.co/swfVTdg/101181820-f3a63780-3612-11eb-9d3a-05452f2b0ad8.png"
-    },
-    {
-        "name": "Redux",
-        "img": "https://i.ibb.co/Lv95SDj/1-8v-DTQKh-Emn-2-TVZ-u8m-Qw.jpg"
-    },
-    {
-        "name": "Node JS",
-        "img": "https://i.ibb.co/cw1RbRs/1-IWn-UIs-LJV5g-ADU0e-Zic8-YA.jpg"
-    },
-    {
-        "name": "Express JS",
-        "img": "https://i.ibb.co/gJVQt4x/1686391647921.png"
-    },
-    {
-        "name": "MongoDB",
-        "img": "https://i.ibb.co/SXH2ppC/mg.jpg"
-    },
-    {
-        "name": "Mongoose",
-        "img": "https://i.ibb.co/znGGCG0/mgsdb.png"
+        "img": "https://i.ibb.co/RC3NH64/1-s-X8r-BJBol5d-Bp5-WIJQr-Yyw.png",
+        "level":"Expertise"
     },
    
     {
-        "name": "Prisma",
-        "img": "https://i.ibb.co/4wyYhr6/prisma-triangulo-triangular-piramide-color-colorido-efecto-vibrante-gradiente-vector-moderno-diseno.jpg"
+        "name": "AXIOS",
+        "img": "https://i.ibb.co/swfVTdg/101181820-f3a63780-3612-11eb-9d3a-05452f2b0ad8.png",
+        "level":"Expertise"
     },
     {
-        "name": "PostgresSql",
-        "img": "https://i.ibb.co/HpF8tGb/Postgresql-elephant-svg.png"
+        "name": "Redux",
+        "img": "https://i.ibb.co/Lv95SDj/1-8v-DTQKh-Emn-2-TVZ-u8m-Qw.jpg","level":"Expertise"
+    },
+    {
+        "name": "Node JS",
+        "img": "https://i.ibb.co/cw1RbRs/1-IWn-UIs-LJV5g-ADU0e-Zic8-YA.jpg",
+        "level":"Expertise"
+    },
+    {
+        "name": "Express JS",
+        "img": "https://i.ibb.co/gJVQt4x/1686391647921.png",
+        "level":"Expertise"
+    },
+    {
+        "name": "MongoDB",
+        "img": "https://i.ibb.co/SXH2ppC/mg.jpg",
+        "level":"Expertise"
+    },
+    {
+        "name": "Mongoose",
+        "img": "https://i.ibb.co/znGGCG0/mgsdb.png",
+        "level":"Expertise"
     },
     {
         "name": "GitHub",
-        "img": "https://i.ibb.co/7jMKJ36/github-6980894-1280.webp"
+        "img": "https://i.ibb.co/7jMKJ36/github-6980894-1280.webp",
+        "level":"Expertise"
+    },
+    {
+        "name": "Next JS",
+        "img": "https://i.ibb.co/XZYxVJC/4351794-0bd8.jpg",
+        "level":"Comfortable"
+    }, 
+     {
+        "name": "PostgresSql",
+        "img": "https://i.ibb.co/HpF8tGb/Postgresql-elephant-svg.png",
+        "level":"Comfortable"
+    },
+    {
+        "name": "Prisma",
+        "img": "https://i.ibb.co/4wyYhr6/prisma-triangulo-triangular-piramide-color-colorido-efecto-vibrante-gradiente-vector-moderno-diseno.jpg",
+        "level":"Comfortable"
+
+    },
+    {
+        "name": "TanStack",
+        "img": "https://i.ibb.co/tD86dR7/tan.png",
+        "level":"Comfortable"
     }
-  
 ]

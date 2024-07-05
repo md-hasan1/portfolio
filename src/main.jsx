@@ -7,6 +7,7 @@ import {
 } from "react-router-dom";
 import Home from './MainLayout/Home/Home';
 import Main from './MainLayout/Main/Main';
+import ProjectDetails from './Sheared/ProjectDetails/ProjectDetails';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -15,6 +16,10 @@ const router = createBrowserRouter([
       {
         path:'/',
         element:<Home></Home>
+      },
+      {
+        path:'/project-details',
+        element:<ProjectDetails></ProjectDetails>
       }
       
     ]

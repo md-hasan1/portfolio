@@ -7,11 +7,11 @@ const Skills = () => {
         my Skills
       </h4>
 
-      <div className="grid  lg:grid-cols-8 gap-10 mx-12 text-white">
+      <div className="grid grid-cols-2  lg:grid-cols-8 gap-10 mx-12 text-white">
         {skillData?.map((item, index) => (
           <div
             key={index}
-            className="h-48  p-1 hover:p-2  bg-[#000]   outline-double outline-2  duration-300 shadow-lg  shadow-white hover:shadow-2xl hover:shadow-white outline-offset-2 relative	outline-color: #4b5563 rounded-lg box-shadow "
+            className="h-52  p-1 hover:p-2  bg-[#000]   outline-double outline-2  duration-300 shadow-lg  shadow-white hover:shadow-2xl hover:shadow-white outline-offset-2 relative	outline-color: #4b5563 rounded-lg box-shadow "
           >
             <img className="h-32  mx-auto rounded-lg" src={item?.img} alt="" />
             <p
@@ -36,9 +36,12 @@ const Skills = () => {
               }}
             ></p>
 
-            <div className="flex justify-between font-extralight ">
-              <span className="text-2xl font-bold text-[#df17fd] mx-auto">
+            <div className=" font-extralight ">
+              <span className="text-2xl font-serif text-[#df17fd]">
                 {item.name}
+              </span><br></br>
+              <span className="text-2xl font-serif text-[#df17fd]">
+                {item.level}
               </span>
             </div>
           </div>

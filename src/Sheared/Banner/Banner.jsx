@@ -74,7 +74,7 @@ const Banner = () => {
         </div>
       </div>
       <img
-        className="lg:w-[400px] lg:h-[400px] my-8 rounded-lg shadow-0 ms-8 lg:ml-32 mb-60  bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 pr-2 pb-2 bg-opacity-25  hover:scale-110 duration-500"
+        className="lg:w-[400px] lg:h-[400px] my-8 rounded-lg shadow-0 ms-8 lg:ml-32  bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 pr-2 pb-2 bg-opacity-25  hover:scale-110 duration-500"
         src="https://i.ibb.co/D90Bz3k/IMG-20230212-051852.png"
         alt=""
       />
