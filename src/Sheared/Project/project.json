@@ -1,38 +1,73 @@
-[
+[{
+                "id": "1",
+                "img": "https://i.ibb.co/8s6kLhp/Screenshot-2024-07-07-003033.png",
+                "name": "Nexus Bank",
+                "startTime": "10/06/2023",
+                "endTime": "14/06/2023",
+                "clientSide": "https://github.com/md-hasan-akon1/nexus-bank-client",
+                "serverSide": "https://github.com/md-hasan-akon1/nexus-bank-server",
+                "liveLink": "https://nexus-cc1a9.web.app",
+                "technology": "html, css, tailwind, react.js, node.js, express, react query, firebase, mongodb, react router, react hook, vercel, ENV variable, stripe.js, daisy UI, Redux.",
+                "about": "User Dashboard : Username: nexususer, Pass: nexus123 | Admin Dashboard: Username: admin, Pass: nexus123.<br/> At first, I want to say this is my team project. This is banking website. In this website user can apply for loan and this loan request manage by admin (approve and deny).<br/> user can create account for saving account, Diposite account. User can add card beneficiary. <br/> user apply for credit card. money transfer by ssl commerz, stripe. admin also manage admin dashboard."
+        },
         {
-                "id":"1",
-        "img": "https://i.ibb.co/myWGy3s/Screenshot-2023-07-05-120917.png",
-        "name": "Dance Studio",
-        "startTime":"10/06/2023",
-        "endTime":"14/06/2023",
-        "clientSide":"",
-        "serverSide":"",
-        "liveLink":"",
-        "technology":"",
-        "about":""
-},
+                "id": "2",
+                "img": "https://i.ibb.co/myWGy3s/Screenshot-2023-07-05-120917.png",
+                "name": "Dance Studio",
+                "startTime": "10/06/2023",
+                "endTime": "14/06/2023",
+                "clientSide": "https://github.com/md-hasan-akon1/Dance-studio",
+                "serverSide": "https://github.com/md-hasan-akon1/dance-studio-server",
+                "liveLink": "https://assognment-12.web.app",
+                "technology": "tailwind, react.js, node.js, express, firebase, mongoDB, vercel, stripe.js, daisy UI,",
+                "about": "Admin email: ttt@t.com password: 12345678Aa@   <br/> In this site three role user when user login default role student. Student can add her fevorite classes and payment this classes and show payment history. <br/> If admin make instractor this persone can add new class and he show all deny class by admin. <br/> Admin can set role for every user and approved and deny all new add class"
+        },
         {
-                "id":"2",
-        "img": "https://i.ibb.co/myWGy3s/Screenshot-2023-07-05-120917.png",
-        "name": "Dance Studio",
-        "startTime":"10/06/2023",
-        "endTime":"14/06/2023",
-        "clientSide":"",
-        "serverSide":"",
-        "liveLink":"",
-        "technology":"",
-        "about":""
-},
- {
-        "id":"3",
-        "img": "https://i.ibb.co/myWGy3s/Screenshot-2023-07-05-120917.png",
-        "name": "Dance Studio",
-        "startTime":"10/06/2023",
-        "endTime":"14/06/2023",
-        "clientSide":"",
-        "serverSide":"",
-        "liveLink":"",
-        "technology":"",
-        "about":""
-}
+                "id": "3",
+                "img": "https://i.ibb.co/N92Wg6W/Screenshot-2024-07-07-005526.png",
+                "name": "Kid Car Toys",
+                "startTime": "04/06/2023",
+                "endTime": "08/06/2023",
+                "clientSide": "https://github.com/md-hasan-akon1/toys",
+                "serverSide": "https://github.com/md-hasan-akon1/toy-server",
+                "liveLink": "https://assignment-eleven-b1e41.web.app/",
+                "technology": " Javascript, react, react router dom, html, tailwind CSS, react form hook, node, express js, firebase, mongoDB, vercel, env variable.",
+                "about": "This is user Friendly e-commerce website selling electronic car toys for babies <br/> used firebase for login and registration systems. password validate by regular expressions. <br/> user can add toys and see all toy and user click my toys then show her toys. User can update and delete only her toys. "
+        },
+        {
+                "id": "4",
+                "img": "https://i.ibb.co/gMsQGdN/Screenshot-2024-07-07-222838.png",
+                "name": "The Bengali Food",
+                "startTime": "01/06/2023",
+                "endTime": "04/06/2023",
+                "clientSide": "https://github.com/md-hasan-akon1/chef-recipe",
+                "serverSide": "https://github.com/md-hasan-akon1/cheif-reciopes-server",
+                "liveLink": "https://assignment-ten-63c9f.web.app/",
+                "technology": " Javascript, react, react router dom, html, tailwind CSS, react form hook, node, express js, firebase, mongoDB, vercel, env variable.",
+                "about": "This is user Friendly delicious Food recipes type website. <br/> Here user can see about our chef. click by view recipes details button user can see chef details with her cooking methods. user can see our most favorite food and get health fitness tips "
+        },
+        {
+                "id": "5",
+                "img": "https://i.ibb.co/6r20YcR/Screenshot-2024-07-08-002831.png",
+                "name": "Flower Sale Manage",
+                "startTime": "12/02/2024",
+                "endTime": "19/02/2024",
+                "clientSide": "https://github.com/md-hasan-akon1/flower-sale-manage-client",
+                "serverSide": "https://github.com/md-hasan-akon1/flower-sale-manage-server",
+                "liveLink": "https://flower-management-eight.vercel.app",
+                "technology": " Typescript, react, react router dom, antd, jwt-decode, react form hook, node, express js, mongoDB, vercel, env variable, moment, react-redux, sonner,argon2, cors, http-status, mongoose, zod",
+                "about": " admin username: admin || password: 1111,manager username: manager || password: 1111 seller username: seller || password : 1111 .<br/> This is a product selling website.In this web have three role fot user. User can registration by her name email username. <br/>After registration user navigate login page for log in. <br/> admin can manage user role. <br/> manager can create product , update product, delete product , duplicate product,create coupon code. ,<br/>seller can sale product and see this product history"
+        },
+        {
+                "id": "6",
+                "img": "https://i.ibb.co/3s7ycvJ/Screenshot-2024-07-08-003552.png",
+                "name": "Blood Care",
+                "startTime": "21/05/2024",
+                "endTime": "01/06/2024",
+                "clientSide": "https://github.com/md-hasan-akon1/blood-care-client",
+                "serverSide": "https://github.com/md-hasan-akon1/blood-care-back-end",
+                "liveLink": "https://blood-donation-front-end.vercel.app",
+                "technology": " Typescript, mui material, jwt-decode, react form hook, reduxjs/toolkit, node, axios, next js, swiper, zod, express js, mongoDB, vercel, env variable, prisma, ts-node, moment, jsonwebtoken , sonner,argon2, cors, http-status, mongoose, zod",
+                "about": " admin username: admin || password: 1111,manager username: manager || password: 1111 seller username: seller || password : 1111 .<br/> This is a product selling website.In this web have three role fot user. User can registration by her name email username. <br/>After registration user navigate login page for log in. <br/> admin can manage user role. <br/> manager can create product , update product, delete product , duplicate product,create coupon code. ,<br/>seller can sale product and see this product history"
+        }
 ]

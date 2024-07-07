@@ -3,29 +3,36 @@ const Header = () => {
     <>
       <a
         href="#footer"
-        className="ml-4 hover:bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 font-bold  py-2 px-4 rounded-lg duration-300"
+        className="hover:bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 font-bold  py-2 px-4 rounded-lg duration-300"
       >
         About
       </a>
       <a
         href="#contact"
-        className="ml-4 hover:bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 font-bold py-2 px-4 rounded-lg duration-300"
+        className=" hover:bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 font-bold py-2 px-4 rounded-lg duration-300"
       >
         Contact me
       </a>
       <a
         href="#skill"
        
-        className="ml-4 hover:bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 font-bold py-2 px-4 rounded-lg duration-300"
+        className=" hover:bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 font-bold py-2 px-4 rounded-lg duration-300"
       >
         Skills
+      </a>
+      <a
+        href="#skill"
+       
+        className=" hover:bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 font-bold py-2 px-4 rounded-lg duration-300"
+      >
+        Blogs
       </a>
     </>
   );
   return (
     <div className="sticky top-0 z-50">
       <div className="navbar bg-white ">
-        <div className="navbar-start">
+        <div className="lg:w-[35%]">
           <div className="dropdown">
             <label tabIndex={0} className="btn btn-ghost lg:hidden">
               <svg

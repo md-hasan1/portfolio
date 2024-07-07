@@ -27,16 +27,16 @@ const Project = () => {
             >
               <img
                 className="object-cover rounded-lg"
-                src="https://i.ibb.co/myWGy3s/Screenshot-2023-07-05-120917.png"
+                src={item.img}
                 alt=""
               />
               <div>
                 <div className="flex items-center justify-between  font-bold mb-8 gap-4">
                   <h1 className="font-bold text-2xl font-serif ">
-                    Name : Dance Studio{" "}
+                    Name : {item.name}
                   </h1>
                   <p className="font-mono font-bold">
-                    Duration : 10/06/2023 -- 14/06/2023
+                    Duration : {item.startTime} -- {item.endTime}
                   </p>
                 </div>
                 <div className="flex justify-around items-center gap-2">
@@ -52,15 +52,15 @@ const Project = () => {
                     animationData={arrowAnimation}
                   ></Lottie>
 
-                  <button  className="hover:bg-slate-700 bg-[#8409ff] text-white font-bold px-4 py-2 rounded outline-double hover:scale-105 hover:shadow-xl hover:shadow-purple-500 duration-300">
+                  <Link to={item.clientSide}  className="hover:bg-slate-700 bg-[#8409ff] text-white font-bold px-4 py-2 rounded outline-double hover:scale-105 hover:shadow-xl hover:shadow-purple-500 duration-300">
                     CLIENT SIDE
-                  </button>
-                  <button className=" hover:bg-slate-700 bg-[#8409ff] text-white font-bold px-4 py-2 rounded outline-double hover:scale-105 hover:shadow-xl hover:shadow-purple-500 duration-300">
+                  </Link>
+                  <Link to={item.serverSide} className=" hover:bg-slate-700 bg-[#8409ff] text-white font-bold px-4 py-2 rounded outline-double hover:scale-105 hover:shadow-xl hover:shadow-purple-500 duration-300">
                     SERVER SIDE
-                  </button>
-                  <button className=" hover:bg-slate-700 bg-[#8409ff] text-white font-bold px-4 py-2 rounded outline-double hover:scale-105 hover:shadow-xl hover:shadow-purple-500 duration-300">
+                  </Link>
+                  <Link to={item.liveLink} className=" hover:bg-slate-700 bg-[#8409ff] text-white font-bold px-4 py-2 rounded outline-double hover:scale-105 hover:shadow-xl hover:shadow-purple-500 duration-300">
                     LIVE LINK
-                  </button>
+                  </Link>
                 </div>
                 {/* <div>
                   <h1 className="font-mono font-bold text-xl">
@@ -81,12 +81,7 @@ const Project = () => {
                     <small>
                       {"  "} FOR ADMIN: email- ttt@t.com password- 12345678Aa@{" "}
                       <br />
-                      In this site three role user when login default role
-                      student. Student can add her favorite classes and payment
-                      this classes and show payment history. If admin make
-                      instructor this person can add new class and he show all
-                      deny class by admin. Admin can set role for every user and
-                      approved and deny all new add class
+                     {item.about}
                     </small>
                   </h1>
                 </div> */}

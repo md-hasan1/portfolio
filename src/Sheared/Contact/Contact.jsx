@@ -30,7 +30,7 @@ const Contact = () => {
   return (
     <div className="mx-12 mt-8" id="contact">
       <h4 className="text-center py-4 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 uppercase w-48 mx-auto rounded-lg font-bold text-2xl mb-8 text-white">
-        Hire Me
+        Contact Me
       </h4>
       <div className="grid lg:grid-cols-3 gap-8 mt-8">
         <form
