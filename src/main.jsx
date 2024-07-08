@@ -8,6 +8,8 @@ import {
 import Home from './MainLayout/Home/Home';
 import Main from './MainLayout/Main/Main';
 import ProjectDetails from './Sheared/ProjectDetails/ProjectDetails';
+import Blog from './Sheared/Blog/Blog';
+import BlogDetails from './Sheared/Blog/BlogDetails';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -20,6 +22,14 @@ const router = createBrowserRouter([
       {
         path:'/project-details',
         element:<ProjectDetails></ProjectDetails>
+      },
+      {
+        path:'/Blogs',
+        element:<Blog></Blog>
+      },
+      {
+        path:'/Blogs/detail/:id',
+        element:<BlogDetails></BlogDetails>
       }
       
     ]

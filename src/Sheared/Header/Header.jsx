@@ -2,7 +2,13 @@ const Header = () => {
   const menuItem = (
     <>
       <a
-        href="#footer"
+        href="/"
+        className="hover:bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 font-bold  py-2 px-4 rounded-lg duration-300"
+      >
+        Home
+      </a>
+      <a
+        href="#about"
         className="hover:bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 font-bold  py-2 px-4 rounded-lg duration-300"
       >
         About
@@ -21,7 +27,7 @@ const Header = () => {
         Skills
       </a>
       <a
-        href="#skill"
+        href="/Blogs"
        
         className=" hover:bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 font-bold py-2 px-4 rounded-lg duration-300"
       >

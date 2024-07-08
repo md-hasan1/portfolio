@@ -7,7 +7,7 @@ import arrowAnimation from "../animation/Animation - arrow.json";
 import Lottie from "lottie-react";
 const Banner = () => {
   return (
-    <div className="flex flex-col-reverse lg:flex-row flex-grow-1">
+    <div id="about" className=" flex flex-col-reverse lg:flex-row flex-grow-1">
       <div className="mx-10 lg:w-1/2 ">
         <div className="overflow-hidden shadow-2xl p-8 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 mt-8 rounded-lg border-e-4 border-e-red-600 ">
           <p className="uppercase font-semibold mt-4 ">welcome to my world</p>
